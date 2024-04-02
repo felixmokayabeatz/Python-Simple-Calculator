@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-#felixmokayabeatz
+
+#felixmokayabeatz is coding 
 
 import tkinter as tk
 from tkinter import ttk
@@ -106,7 +106,7 @@ set_light_theme()
 root.bind("<Key>", on_key)
 
 root.mainloop()
-=======
+
 import tkinter as tk
 from tkinter import ttk  # Import themed widgets
 
@@ -252,4 +252,4 @@ theme_button = ttk.Button(root, text="Dark Theme", command=toggle_theme)
 theme_button.grid(row=5, columnspan=4, sticky='ew')
 
 root.mainloop()
->>>>>>> b3eefb71fcecd1ba9dd8e7dab872eb5387710c60
+
